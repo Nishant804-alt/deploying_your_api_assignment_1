@@ -19,7 +19,7 @@ Before starting, ensure you have:
 
 ---
 
-## **🚀 Steps**
+## **🚀 Steps **
 
 ### **1. Install the dotenv Package**
 
